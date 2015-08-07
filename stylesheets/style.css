@@ -1,7 +1,11 @@
-/* line 1, /Users/titus/projects/mau-mau.ch/middleman-mau-mau.ch/source/stylesheets/style.scss */
+/* line 1, /Users/robert/Desktop/test/middleman-mau-mau.ch/source/stylesheets/style.scss */
+body {
+  background: red; }
+
+/* line 6, /Users/robert/Desktop/test/middleman-mau-mau.ch/source/stylesheets/style.scss */
 nav {
   width: 80%; }
 
-/* line 5, /Users/titus/projects/mau-mau.ch/middleman-mau-mau.ch/source/stylesheets/style.scss */
+/* line 10, /Users/robert/Desktop/test/middleman-mau-mau.ch/source/stylesheets/style.scss */
 #container {
   width: 80%; }
